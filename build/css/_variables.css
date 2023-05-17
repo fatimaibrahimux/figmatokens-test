@@ -1,0 +1,70 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 17 May 2023 20:55:00 GMT
+ */
+
+:root {
+  --sd-global-8: 8;
+  --sd-global-16: 16;
+  --sd-global-testing: #999999;
+  --sd-global-light-color-text: #172b4d;
+  --sd-global-light-color-icon: #44546f;
+  --sd-global-light-color-border: #091e4224;
+  --sd-global-light-color-background-disabled: #091e4208;
+  --sd-global-light-color-background-input: #ffffff;
+  --sd-global-light-color-background-inverse-subtle: #00000029;
+  --sd-global-light-color-background-neutral: #091e420f;
+  --sd-global-light-color-background-accent-red-subtlest: #ffedeb;
+  --sd-global-light-color-background-selected: #e9f2ff;
+  --sd-global-light-color-background-brand-bold: #0c66e4;
+  --sd-global-light-color-background-danger: #ffedeb;
+  --sd-global-light-color-background-warning: #fff7d6;
+  --sd-global-light-color-background-success: #dffcf0;
+  --sd-global-light-color-background-discovery: #f3f0ff;
+  --sd-global-light-color-background-information: #e9f2ff;
+  --sd-global-light-color-blanket: #091e427d;
+  --sd-global-light-color-interaction-hovered: #00000029;
+  --sd-global-light-color-interaction-pressed: #00000052;
+  --sd-global-light-color-skeleton: #091e420f;
+  --sd-global-light-color-chart-brand: #1d7afc;
+  --sd-global-light-color-chart-danger: #ef5c48;
+  --sd-global-light-color-chart-warning: #b38600;
+  --sd-global-light-color-chart-success: #22a06b;
+  --sd-global-light-color-chart-discovery: #8f7ee7;
+  --sd-global-light-color-chart-information: #388bff;
+  --sd-global-light-color-link: #0c66e4;
+  --sd-global-light-elevation-surface: #ffffff;
+  --sd-global-light-elevation-shadow-overflow: [object Object],[object Object];
+  --sd-global-light-elevation-shadow-overlay: [object Object],[object Object];
+  --sd-global-light-elevation-shadow-raised: [object Object],[object Object];
+  --sd-global-dark-color-text: #c7d1db;
+  --sd-global-dark-color-icon: #9fadbc;
+  --sd-global-dark-color-border: #a6c5e229;
+  --sd-global-dark-color-background-disabled: #bcd6f00a;
+  --sd-global-dark-color-background-input: #1d2125;
+  --sd-global-dark-color-background-inverse-subtle: #ffffff29;
+  --sd-global-dark-color-background-neutral: #a1bdd914;
+  --sd-global-dark-color-background-selected: #082145;
+  --sd-global-dark-color-background-brand-bold: #579dff;
+  --sd-global-dark-color-background-danger: #391813;
+  --sd-global-dark-color-background-warning: #3d2e00;
+  --sd-global-dark-color-background-success: #133527;
+  --sd-global-dark-color-background-discovery: #231c3f;
+  --sd-global-dark-color-background-information: #082145;
+  --sd-global-dark-color-blanket: #03040442;
+  --sd-global-dark-color-interaction-hovered: #ffffff33;
+  --sd-global-dark-color-interaction-pressed: #ffffff5c;
+  --sd-global-dark-color-skeleton: #a1bdd914;
+  --sd-global-dark-color-chart-brand: #388bff;
+  --sd-global-dark-color-chart-danger: #e34935;
+  --sd-global-dark-color-chart-warning: #cf9f02;
+  --sd-global-dark-color-chart-success: #2abb7f;
+  --sd-global-dark-color-chart-discovery: #8270db;
+  --sd-global-dark-color-chart-information: #1d7afc;
+  --sd-global-dark-color-link: #579dff;
+  --sd-global-dark-elevation-surface: #161a1d;
+  --sd-global-dark-elevation-shadow-overflow: [object Object],[object Object];
+  --sd-global-dark-elevation-shadow-raised: [object Object],[object Object],[object Object];
+  --sd-global-dark-elevation-shadow-overlay: [object Object],[object Object],[object Object];
+  --sd-global-radius-default: 8px;
+}
