@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 17 May 2023 20:55:00 GMT
+ * Generated on Wed, 17 May 2023 21:37:30 GMT
  */
 
 :root {
@@ -16,7 +16,7 @@
   --sd-global-light-color-background-neutral: #091e420f;
   --sd-global-light-color-background-accent-red-subtlest: #ffedeb;
   --sd-global-light-color-background-selected: #e9f2ff;
-  --sd-global-light-color-background-brand-bold: #0c66e4;
+  --sd-global-light-color-background-brand-bold: #000;
   --sd-global-light-color-background-danger: #ffedeb;
   --sd-global-light-color-background-warning: #fff7d6;
   --sd-global-light-color-background-success: #dffcf0;
